@@ -5,8 +5,8 @@
 - Estudante de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/viniciussfraga">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciussfraga&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussfraga&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=viniciussfraga&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussfraga&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -18,6 +18,9 @@
   <img align="center" alt="Vinicius-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img align="center" alt="Vinicius-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
   <img align="center" alt="Vinicius-Eclipse" height="30" width="30" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
+  
+
+
   </div>
   
 ##
