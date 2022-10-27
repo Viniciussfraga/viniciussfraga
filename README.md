@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinicius Fraga
 
 
-- Java Developer 
+- Developer 
 - Estudante de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/viniciussfraga">
